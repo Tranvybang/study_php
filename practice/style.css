@@ -1,0 +1,19 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+font-family: "Gochi Hand", "Noto Color Emoji", cursive, sans-serif;
+font-size: 18px;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: auto;
+    background: #b3bbeb;
+}
+
+.result {
+text-align: center;}
