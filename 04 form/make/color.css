@@ -1,0 +1,12 @@
+
+body
+{margin: 60px auto;
+    padding: 0px ;
+}
+.content{
+background: pink;
+line-height: 10px;
+text-align: center;
+margin: 10px auto;
+color: red;
+}
